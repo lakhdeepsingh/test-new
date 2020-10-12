@@ -6,9 +6,6 @@ public class TestSum {
         return a+b;
     }
 
-    public int Sum(int a, int b, int c) {
-        return a+b+c;
-    }
 
     public int Sum(int a) {
         return a;
