@@ -10,4 +10,7 @@ public class TestSum {
         return a+b+c;
     }
 
+    public int Sum(int a) {
+        return a;
+    }
 }
