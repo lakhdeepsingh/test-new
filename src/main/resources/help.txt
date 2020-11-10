@@ -1,2 +1,5 @@
 help updated
+<<<<<<< HEAD
+new update
+=======
 new update in issue1 branch
